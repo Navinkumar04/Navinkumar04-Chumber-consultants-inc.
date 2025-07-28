@@ -986,3 +986,12 @@ section {
   font-size: 20px; /* Adjust font size for the span if needed */
   margin-left: 5px; /* Add space between the text and the span */
 }
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Adds space between logo image and text */
+  margin-right: 20px; /* Adds space after the entire logo block */
+}
+.logo img {
+  margin-right: 10px;
+}
